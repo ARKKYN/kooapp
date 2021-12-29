@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Tweet\";","map":{"version":3,"sources":["/Users/arul/Desktop/load-more-infinite-scroll/components/Tweet/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,SAAtB","sourcesContent":["export {default} from \"./Tweet\";\n"]},"metadata":{},"sourceType":"module"}
